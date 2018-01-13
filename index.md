@@ -13,6 +13,6 @@ In my leisure time, I Sketch (on Paper or on Computer), Programme (C, C++ or Pyt
 
 | Course code  | Course Name                             | Semester  |
 |:-------------|:----------------------------------------|:----------|
-| ME202        | [Advance Mechanics of solids](page-1)   | Fourth    |
+| ME202        | [Advanced Mechanics of solids](page-1)  | Fourth    |
 | HS300        | [Principles of Management](page-2)      | Sixth     |
 
