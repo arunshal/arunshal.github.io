@@ -6,8 +6,14 @@ This page is created to share course materials ie. notes, presentations, homewor
 
 I mainly work in Computational Fluid Flow and Heat transfer. My other areas of interest are  Classical & Statistical Thermodynamics, Contunnumm physics, Mechatronics & Robotics,  Applied mathematics etc.
 
-In my leisure time, I sketch (on Paper or on Computer), programme (C, C++ or Python) and play Violin.  
+In my leisure time, I Sketch (on Paper or on Computer), Programme (C, C++ or Python) and Play Violin.  
 
-Regards,
+For Course details-
 
-Arun
+###### [](#header-6)Courses
+
+| Course code  | Course Name                             | Semester  |
+|:-------------|:----------------------------------------|:----------|
+| ME202        | [Advance Mechanics of solids](page-1)   | nice      |
+| HS300        | [Principles of Management](page-2)      | nice      |
+
