@@ -38,8 +38,6 @@ At the end of the course students will be able to
 
 ##### [](#header-5)Presentations:
 
-| Module   | Contents            | Download Link |
-|:---------|:--------------------|:--------------|
-| Module-1 | Introduction to stress analysis in elastic solids - stress at a point – stress
-tensor – stress components in rectangular and polar coordinate systems -
-Cauchy’s equations   | nice          |
+| Module   | Download Link                       |
+|:---------|:------------------------------------|
+| Module-1 | [Introduction](Introduction.pdf)    |
