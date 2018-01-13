@@ -9,7 +9,7 @@ I mainly work in Computational Fluid Flow and Heat transfer. My other areas of i
 In my leisure time, I Sketch (on Paper or on Computer), Programme (C, C++ or Python) and Play Violin.  
 
 
-###### [](#header-5)Clik on the link below to access the course materials
+###### [](#header-5)Click on the link below to access the course materials
 
 | Course code  | Course Name                             | Semester  |
 |:-------------|:----------------------------------------|:----------|
