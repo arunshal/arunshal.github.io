@@ -41,5 +41,6 @@ At the end of the course students will be able to
 | Module   | Topic                                                |
 |:---------|:-----------------------------------------------------|
 | Module-0 | [Introduction](Introduction.pdf)                     |
-|----------|------------------------------------------------------|
 | Module-1 | [Stress Analysis Part-1](StressAnalysisPart1.pdf)    |
+| Module-1 | [Stress Analysis Part-2](StressAnalysisPart2.pdf)    |
+
