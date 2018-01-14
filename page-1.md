@@ -32,7 +32,7 @@ At the end of the course students will be able to
 3.  J. P. Den Hartog, Advanced Strength of Materials, McGraw Hill,1987
 4.  C. K. Wang, Applied Elasticity, McGraw Hill,1983
 5.  S. M. A. Kazimi, Solid Mechanics, McGraw Hill,2008
-6.  L. Govindaraju ,TG Sitharaman, Applied elasticity for Engineers, NPTEL
+6.  L. Govindaraju ,TG Sitharaman, Applied elasticity for Engineers,NPTEL
 7.  U. Saravanan, Advanced Solid Mechanics, NPTEL
 8.  http://solidmechanics.org/contents.php- Free web book on Applied Mechanics of Solids by A.F. Bower.
 
