@@ -3,5 +3,3 @@ description: Hi, I'm Arun Shal, nice to meet you!
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-slate
-plugins:
-  -jekyll-seo-tag
