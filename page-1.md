@@ -48,8 +48,8 @@ At the end of the course students will be able to
 
 | Name.Sl No                     | Topic                                |Date of Submission  |
 |:-------------------------------|:-------------------------------------|:-------------------|
-| [Tutorial-1](Tutorial-1.pdf)   | Stress Analysis                      |19-01-2018          |
-| [Tutorial-2](Tutorial-2.pdf)   | Stress Analysis-Part 2               |25-01-2018          |
+| [Tutorial-1](Tutorial_1.pdf)   | Stress Analysis                      |19-01-2018          |
+| [Tutorial-2](Tutorial_2.pdf)   | Stress Analysis-Part 2               |25-01-2018          |
 
 ##### [](#header-5)Additional Notes:
 
