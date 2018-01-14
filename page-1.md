@@ -34,7 +34,7 @@ At the end of the course students will be able to
 5.  S. M. A. Kazimi, Solid Mechanics, McGraw Hill,2008
 6.  L. Govindaraju ,TG Sitharaman, Applied elasticity for Engineers, NPTEL
 7.  U. Saravanan, Advanced Solid Mechanics, NPTEL
-8.  www.solidmechanics.org/contents.htm - Free web book on Applied Mechanics of Solids by A.F. Bower.
+8.  [www.solidmechanics.org/contents.htm](http://solidmechanics.org/contents.php) - Free web book on Applied Mechanics of Solids by A.F. Bower.
 
 ##### [](#header-5)Presentations:
 
