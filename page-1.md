@@ -38,9 +38,18 @@ At the end of the course students will be able to
 
 ##### [](#header-5)Presentations:
 
-| Module   | Topic                                                |
-|:---------|:-----------------------------------------------------|
-| Module-0 | [Introduction](Introduction.pdf)                     |
-| Module-1 | [Stress Analysis Part-1](StressAnalysisPart1.pdf)    |
-| Module-1 | [Stress Analysis Part-2](StressAnalysisPart2.pdf)    |
+| Module   | Topic                                                |Date of Upload  |
+|:---------|:-----------------------------------------------------|:---------------|
+| Module-0 | [Introduction](Introduction.pdf)                     |14-01-2018      |
+| Module-1 | [Stress Analysis Part-1](StressAnalysisPart1.pdf)    |14-01-2018      |
+| Module-1 | [Stress Analysis Part-2](StressAnalysisPart2.pdf)    |14-01-2018      |
 
+##### [](#header-5)Tutorials:
+
+| Name.SlNo   | Topic                                                |Date of Submission  |
+|:------------|:-----------------------------------------------------|:-------------------|
+| Tutorial-1  | [Stress Analysis]()                                  |22-01-2018          |
+
+##### [](#header-5)Additional Notes:
+
+* [Stress Transformation]() 
