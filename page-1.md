@@ -46,9 +46,9 @@ At the end of the course students will be able to
 
 ##### [](#header-5)Tutorials:
 
-| Name.SlNo   | Topic                                                |Date of Submission  |
-|:------------|:-----------------------------------------------------|:-------------------|
-| Tutorial-1  | [Stress Analysis]()                                  |22-01-2018          |
+| Name.Sl No   | Topic                                                |Date of Submission  |
+|:-------------|:-----------------------------------------------------|:-------------------|
+| Tutorial-1   | [Stress Analysis]()                                  |22-01-2018          |
 
 ##### [](#header-5)Additional Notes:
 
