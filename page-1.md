@@ -38,7 +38,7 @@ At the end of the course students will be able to
 
 ##### [](#header-5)Presentations:
 
-| Module   | Topic                                                |Date of Upload  |
+| Module   | Topics                                                |Date of Upload  |
 |:---------|:-----------------------------------------------------|:---------------|
 | Module-0 | [Introduction](Introduction.pdf)                     |14-01-2018      |
 | Module-1 | [Stress Analysis Part-1](StressAnalysisPart1.pdf)    |14-01-2018      |
